@@ -1,0 +1,19 @@
+{
+    "name": "mlo/test-montant-frais",
+    "description": "teste Package",
+    "type": "library",
+    "require": {
+        "amphp/amp": "^3.0"
+    },
+    "license": "Newsletr",
+    "autoload": {
+        "psr-4": {
+            "Mlo\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mlo"
+        }
+    ]
+}
