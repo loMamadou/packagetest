@@ -1,5 +1,5 @@
 <?php
-namespace Mlo\Testmontantrais;
+namespace mlo00005\Testmontantrais;
 
 class MontantValidator
 {
